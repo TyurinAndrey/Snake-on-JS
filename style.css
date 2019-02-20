@@ -32,3 +32,18 @@ body {
     background-size: cover;
     border-radius: 10%
 }
+
+.mouse {
+    background: url(mouse.png);
+    background-size: cover;
+}
+
+input {
+    margin: auto;
+    margin-top: 40px;
+    font-size: 30px;
+    display: block;
+}
+
+
+
